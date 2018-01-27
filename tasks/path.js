@@ -1,5 +1,5 @@
-let doll_account = '/Users/feixiaochuan/Documents/project/DollProject/DollAccount.json'  // 账号密钥相关目录
-    , dir_project = '/Users/feixiaochuan/Documents/project/DollProject/kuaishoudoll/' // 项目文件目录
+let doll_account = '/Users/qiu/MyProjects/DollAccount.json'  // 账号密钥相关目录
+    , dir_project = '/Users/qiu/MyProjects/Doll/' // 项目文件目录
     , dir_web = 'bin-release/web/'; // egret发布成功的web文件目录
 
 module.exports = {
